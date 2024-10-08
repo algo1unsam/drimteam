@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-Hola soy a
-=======
 hola
 
 buenas
->>>>>>> main
+hola
+
+buenas
